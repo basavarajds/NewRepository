@@ -22,7 +22,12 @@ public class Utils {
 	}
 	public void click3()
 	{
-		System.out.println("click2");
+		System.out.println("click3");
+		System.out.println("Branch_01");
+	}
+	public void click4()
+	{
+		System.out.println("click4");
 		System.out.println("Branch_01");
 	}
 }
