@@ -15,4 +15,9 @@ public class Utils {
 		System.out.println("click1");
 		System.out.println("Branch_01");
 	}
+	public void click2()
+	{
+		System.out.println("click2");
+		System.out.println("Branch_01");
+	}
 }
